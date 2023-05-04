@@ -1,4 +1,4 @@
-# [the_space_toolkit](https://github.com/varospaxo/the_space_toolkit)
+# [The_Space_Toolkit](https://github.com/varospaxo/the_space_toolkit)
 
 <b>University of Mumbai Python Mini Project</b><br><br>
 Credits:<br>
